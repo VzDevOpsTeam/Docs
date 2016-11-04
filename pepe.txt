@@ -1,2 +1,3 @@
-HI
+
 Scott is adding a line to Pepe's document...
+delete line 1 and add line 3
